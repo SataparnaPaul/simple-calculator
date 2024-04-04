@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+.text-component{
+  width: 50 vw;
+  border: 2 px solid grey;
+  background-color: darkgray;
+
+}
+
+.bttn{
+color: red;
+}
